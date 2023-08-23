@@ -3,7 +3,7 @@
     This website is created using 
     HTML CSS JS Bootstrap Talwind CSS
 
-Here we have diffrent sectins 
+Here we have diffrent sections
      
         Home
         Introduction
