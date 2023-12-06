@@ -11,6 +11,7 @@ Here we have diffrent sections
         Yoga For Kids
         Yoga For Men
         Yoga For Women
+        Yoga For Fertility
         Yoga For IT Proffessionals
 
 
